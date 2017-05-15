@@ -1,1 +1,1 @@
-This is a text to practice adding a file to GitHub and then pulling it to a local machine.
+This is a text to practice adding a file to GitHub and then pulling it to a local machine. Now I'm practicing editing a file and pulling it.
