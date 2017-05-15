@@ -1,0 +1,1 @@
+This is a text to practice adding a file to GitHub and then pulling it to a local machine.
