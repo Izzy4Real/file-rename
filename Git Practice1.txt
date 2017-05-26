@@ -6,3 +6,5 @@ Modifiying to practice fetching and merging multiple commits.
 Modifiying to practice fetching and merging multiple commits.
 
 Modifiying on local machine to practice pushing to server.
+
+Modifiying on local newBranch.
