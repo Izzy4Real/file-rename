@@ -2,3 +2,4 @@ This is a text to practice adding a file to GitHub and then pulling it to a loca
 Modifiying text for practicing with remote branches.
 
 Again modifiying file to watch merge with more detailed command perameters.
+Modifiying to practice fetching and merging multiple commits.
