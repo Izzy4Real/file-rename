@@ -10,3 +10,5 @@ Modifiying on local machine to practice pushing to server.
 Modifiying on local newBranch.
 
 modifiyng on localBranch local for practice pushing to server.
+
+modification for git log origin/master..
