@@ -5,8 +5,4 @@ Again modifiying file to watch merge with more detailed command perameters.
 Modifiying to practice fetching and merging multiple commits.
 Modifiying to practice fetching and merging multiple commits.
 
-Modifiying on local machine to practice pushing to server.
-
-Modifiying on local newBranch.
-
-modifiyng on localBranch local for practice pushing to server.
+Change one file in repo for commit.
